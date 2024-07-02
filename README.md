@@ -1,6 +1,7 @@
 # Jogo RPG em python
 
-Este projeto foi criado como parte do curso Programação de Jogos Digitais SENAI ministrado pela instrutora Letícia Christina
+Este projeto foi criado para o curso Programação de Jogos Digitais SENAI ministrado pela instrutora Letícia Christina
+Este projeto foi feito em dupla pelos alunos Bernardo Macedo e Charlie Silva
 
 ### Requisitos: Um computador com Python 3 
 [Tutorial de instalação do Python 3](https://python.org.br/instalacao-windows/)
