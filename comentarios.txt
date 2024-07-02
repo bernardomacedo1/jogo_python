@@ -1,0 +1,11 @@
+- atributos.py contém os atributos do jogador e suas propriedades (como chance de crítico, esquiva, etc.), que são utilizadas em outros arquivos.
+
+- inimigos.py contém fichas de inimigos que são encontrados durante o jogo, com informações como vida, dano, etc.
+
+- combate.py contém uma função importante para o jogo. Ela é puxada a qualquer momento para iniciar um combate com o inimigo especificado.
+
+- jogador.py contém as informações gerais do jogador. Nele, os atributos são muito utilizados. Aqui também encontra-se funções de aumento de atributo.
+
+- main.py É o arquivo "principal" do jogo, contendo o roteiro e as cenas. Esse é o arquivo que deve ser executado.
+
+- utils.py contém um simples código para definir a velocidade do texto que é apresentado para o jogador durante o jogo, utilizando das funções printl e printll.
